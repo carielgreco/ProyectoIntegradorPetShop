@@ -21,7 +21,9 @@ Sitios de Referencia:
 
 Integrantes del Proyecto:
 
-  * Fernando Pioletti
+  * Fernando Pioletti: Tengo 29 años, vivo en Zona Oeste, Haedo, soy un apasionado de los animales, la música y los autos. 
+Estudié hasta 2° año la carrera ingeniería mecánica.
+Soy técnico electromecánico y trabajo en el sector administrativo de gestión y planificación en una empresa especializada en estuches de vinos y perfumes.
   * Sebastian Alvarez
   * Cristian Greco: 
 		  Tengo 47 años, vivo en CABA, estoy casado y tengo 2 hermosas hijas.
