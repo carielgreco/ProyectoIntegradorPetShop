@@ -1,6 +1,8 @@
 # grupo_10_DHPetShop
 Proyecto Integrador Digital House
+
 DHPetShop
+
 Es un nuevo market place que se dedicará a la comercialización de productos de primera calidad para perros y gatos.
 El segmento de público al que queremos seducir es a aquellas personas que consideran a su mascota como un integrante más de la familia y por eso quieren brindarles siempre lo mejor.
 Sabemos mucho sobre el cuidado de Perros y Gatos por eso nuestra casa solo está dedicada a ellos y no a otra especie de animales.
