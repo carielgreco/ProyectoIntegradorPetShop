@@ -13,7 +13,12 @@ La categoría de productos que ofreceremos en nuestro sitio son:
   * Accesorios varios
   * Estética
   * Otros
-	
+
+Sitios de Referencia:
+  * https://www.catycan.com/ : por la calidez, conocimiento del rubro y diseño del header
+  * https://mispichos.com/ : por el diseño del body
+  * https://www.timoteopetshop.com/ : diseño del body y footer y pagina de productos
+
 Integrantes del Proyecto:
 
   * Fernando Pioletti
