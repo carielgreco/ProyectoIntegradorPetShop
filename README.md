@@ -3,9 +3,7 @@ Proyecto Integrador Digital House
 
 DHPetShop
 
-Es un nuevo market place que se dedicará a la comercialización de productos de primera calidad para perros y gatos.
-El segmento de público al que queremos seducir es a aquellas personas que consideran a su mascota como un integrante más de la familia y por eso quieren brindarles siempre lo mejor.
-Sabemos mucho sobre el cuidado de Perros y Gatos por eso nuestra casa solo está dedicada a ellos y no a otra especie de animales.
+Somos un grupo de emprendedores amantes de los animales que creemos que nuestras mascotas merecen calidad, confort y buena salud ya que son una parte muy importante de nuestra familia. Hace más de 10 años que hacemos lo que más nos apasiona y eso se ve reflejado tanto en nuestra atención veterinaria, con profesionales de primer nivel, como en la calidad de los productos que ofrecemos. Manejamos alimentos premium de las mejores marcas del mercado, y contamos con servicio de “Spa Can” con los mejores equipos y profesionales idóneos en todo lo referido a baño, “paticure” y cortes de raza. Contamos con varias sucursales en CABA y GBA. ¡Pasa por nuestros locales y viví la experiencia DHPetShop!   
 
 La categoría de productos que ofreceremos en nuestro sitio son:
   * Alimentos
@@ -24,7 +22,9 @@ Integrantes del Proyecto:
   * Fernando Pioletti: Tengo 29 años, vivo en Zona Oeste, Haedo, soy un apasionado de los animales, la música y los autos. 
 Estudié hasta 2° año la carrera ingeniería mecánica.
 Soy técnico electromecánico y trabajo en el sector administrativo de gestión y planificación en una empresa especializada en estuches de vinos y perfumes.
-  * Sebastian Alvarez
+  * Sebastian Alvarez: Con 34 años, desde muy chico supe que me apasionaba la naturaleza y los animales. Emprendedor y rescatista combino mis dos pasiones y las convierto en mi trabajo de todos los días al asociarme con Cristian y Fernando en esta empresa que no para de crecer.
+  Ex gimnasta, amante de los deportes y aficionado por las nuevas tecnologías y las finanzas descentralizadas busco día a día mejorar la administración de mi negocio estando pendiente de las últimas tendencias.
+
   * Cristian Greco: 
 		  Tengo 47 años, vivo en CABA, estoy casado y tengo 2 hermosas hijas.
       Me gustan los animales, preferentemente los perros. Me gusta mucho el rock nacional, el tango, soy enfermo de Soda Stereo un nivel mas de fanatismo, también escucho Los Redondos, Divididos, etc y de tango me gusta escuchar a Piazzola, Goyeneche, Pugliese, Cacho Castaña y otros autores.
