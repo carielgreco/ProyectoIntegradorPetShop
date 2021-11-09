@@ -1,25 +1,25 @@
 # grupo_10_DHPetShop
 Proyecto Integrador Digital House
 
-DHPetShop
+**DHPetShop**
 
 Somos un grupo de emprendedores amantes de los animales que creemos que nuestras mascotas merecen calidad, confort y buena salud ya que son una parte muy importante de nuestra familia. Hace más de 10 años que hacemos lo que más nos apasiona y eso se ve reflejado tanto en nuestra atención veterinaria, con profesionales de primer nivel, como en la calidad de los productos que ofrecemos. Manejamos alimentos premium de las mejores marcas del mercado, y contamos con servicio de “Spa Can” con los mejores equipos y profesionales idóneos en todo lo referido a baño, “paticure” y cortes de raza. Contamos con varias sucursales en CABA y GBA. ¡Pasa por nuestros locales y viví la experiencia DHPetShop!   
 
-La categoría de productos que ofreceremos en nuestro sitio son:
+***La categoría de productos que ofreceremos en nuestro sitio son:***
   * Alimentos
   * Moisés y colchonetas
   * Accesorios varios
   * Estética
   * Otros
 
-Sitios de Referencia:
+***Sitios de Referencia:***
   * https://www.catycan.com/ : por la calidez, conocimiento del rubro y diseño del header
   * https://mispichos.com/ : por el diseño del body
   * https://www.timoteopetshop.com/ : diseño del body y footer y pagina de productos
  
- Tablero de Trabajo: https://trello.com/b/98OLWO6h/sprints
+***Tablero de Trabajo:*** https://trello.com/b/98OLWO6h/sprints
 
-Integrantes del Proyecto:
+***Integrantes del Proyecto:***
 
   * Fernando Pioletti: Tengo 29 años, vivo en Zona Oeste, Haedo, soy un apasionado de los animales, la música y los autos. 
 Estudié hasta 2° año la carrera ingeniería mecánica.
