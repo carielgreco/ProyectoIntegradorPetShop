@@ -16,6 +16,8 @@ Sitios de Referencia:
   * https://www.catycan.com/ : por la calidez, conocimiento del rubro y diseño del header
   * https://mispichos.com/ : por el diseño del body
   * https://www.timoteopetshop.com/ : diseño del body y footer y pagina de productos
+ 
+ Tablero de Trabajo: https://trello.com/b/98OLWO6h/sprints
 
 Integrantes del Proyecto:
 
